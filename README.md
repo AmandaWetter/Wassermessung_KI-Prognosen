@@ -6,7 +6,7 @@ Das ist ein Repo für das Projekt "Echtzeit-Wassermessung mit KI-Prognosen"
 - Projekt-Titel:
 - Projekt-Beschreibung:
 - Benötigte Hardware:
-- Eingesetzte Technologien (Programmiersprache, Frameworks etc.):
+- Eingesetzte Technologien (Programmiersprache, Frameworks etc.): 
 - Max. Anzahl Teammitglieder:
-- Zuständigkeit:
-- E-Mail:
+- Zuständigkeit: Amanda Wetter, Amt für Geoinformation, Kanton Schwyz
+- E-Mail: amanda.wetter@sz.ch
