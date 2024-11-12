@@ -25,6 +25,8 @@ Für diese Challenge gibt es ein konkretes Beispiel, welches uns das Amt für Ge
 - [Uri](https://geo.ur.ch/?basemap=PKGRAU&center=960861%2C5921756&layers=Oberfl%C3%A4chengew%C3%A4sser%20Pegel%20und%20Abfluss&layersidebarvisible=true&opacity=1&visibility=true&zoom=13)
 
 ### Teil 2 der Challenge: KI-Prognosen 
+Aus bestehenden Messreihen (z.B. Temperatur, Niederschlagsmessungen,  
+
 
 ## Anforderung
 
