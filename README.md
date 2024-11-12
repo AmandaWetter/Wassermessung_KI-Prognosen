@@ -13,7 +13,7 @@ Das ist ein Repo für das Projekt "Echtzeit-Wassermessung mit KI-Prognosen"
     - **Datenbank:** PostgreSQL/PostGIS
     - API Schnittstelle für das Abrufen von Daten
   - Teil 2:
-    - KI-Entwicklung mit den gängigen Python-Libraries
+    - KI-Entwicklung mit den gängigen Python-Frameworks (TensorFlow, PyTorch, Keras...) 
     - Evtl. weitere mögliche Datenbezugsorte (Swisstopo, opendata.swiss, etc...)
 - **Max. Anzahl Teammitglieder:** tbd
 - **Zuständigkeit:** Amanda Wetter, Amt für Geoinformation, Kanton Schwyz
