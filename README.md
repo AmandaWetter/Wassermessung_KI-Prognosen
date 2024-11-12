@@ -4,7 +4,7 @@ Das ist ein Repo für das Projekt "Echtzeit-Wassermessung mit KI-Prognosen"
 ## Bitte untenstehende Angaben ausfüllen:
 - Bereich: Schutz vor Naturgefahren, Geoinformatik
 - Projekt-Titel: Echtzeit-Darstellung von Wassermessungen in WebGIS-Popup Fenster kombiniert mit KI-generierten Prognosekarten für Naturgefahren
-- Projekt-Beschreibung:
+- Projekt-Beschreibung: Siehe Dokumenten Link
 - Benötigte Hardware: keine besondere Hardware nötig.
 - Eingesetzte Technologien (Programmiersprache, Frameworks etc.):
   - Teil 1:
