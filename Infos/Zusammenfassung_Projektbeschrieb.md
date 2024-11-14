@@ -7,7 +7,7 @@ Künstliche Intelligenz ist heutzutage in aller Munde und ein sehr mächtiges To
 </br>
 
 ## Idee
-Der Challenge Task besteht aus zwei teilen. Der erste Teil ist die Darstellung der Messungen über einen Zeitraum. Der zweite Teil der Aufgabe ist die Entwicklung einer Prognosekarte für aktuelle 
+Der Challenge Task besteht aus zwei teilen. Der erste Teil ist die Darstellung der Messungen über einen Zeitraum. Der zweite Teil der Aufgabe ist die Entwicklung einer Prognosekarte, die die aktuelle Situation von Naturgefahren einschätzt.
 
 ### Teil 1 der Challenge: Echtzeit-Darstellung
 Bei den Messstationen sind Links hinterlegt, die einen Request an das Backend senden. Also Response soll ein Popup-Fenster zurückgeliefert werden, welches aufbereitete Informationen zu der jeweiligen Station darstellet. Das Fenster soll folgende Informationen erhalten:
